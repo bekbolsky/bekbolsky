@@ -1,5 +1,6 @@
 <!--
 **bekbolsky/bekbolsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 ## Hi 👋, I'm Bekbolat
 
@@ -20,7 +21,7 @@ I'm enthusiastic and passionate about what I do
 
 <style>
   p {
-    text-indent: 20px; /* Отступ первой строки в пикселах */ 
+    text-indent: 20px;
   }
 </style>
 
